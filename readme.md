@@ -1,5 +1,3 @@
-# Comparison of String Cases Manipulations Libraries
-
 ## Results
 
 | Lib                                                                 | Snake               | Kebab               | Pascal Case         | Camel Case          |
